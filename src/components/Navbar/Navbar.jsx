@@ -72,7 +72,7 @@ const Navbar = ({ toggle }) => {
                               duration={500}
                               spy={true}
                               exact='true'
-                              offset={-80}
+                              offset={-80} /* -80 because the nav is with -80 of margin */
                               > Services </NavLinks>
                           </NavItem>
                           <NavItem>

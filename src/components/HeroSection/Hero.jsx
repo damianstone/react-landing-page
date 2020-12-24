@@ -24,7 +24,7 @@ const Hero = (props) => {
     return (
         <HeroContainer id='home'>
             <HeroBg>
-                <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
+                <VideoBg playsInline autoPlay loop muted src={Video} type='video/mp4' />
             </HeroBg>
             <HeroContent>
                 <HeroH1>We turn your ideas into code</HeroH1>
@@ -32,7 +32,18 @@ const Hero = (props) => {
                 we have the most productive method to work together
                 </HeroP>
                 <HeroBtnWrapper>
-                    <Button to='sigup' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'>
+                    <Button 
+                    to='signup' 
+                    onMouseEnter={onHover} 
+                    onMouseLeave={onHover} 
+                    primary='true' 
+                    dark='true'
+                    smooth={true}
+                    duration={500}
+                    spy={true}
+                    exact='true'
+                    offset={-80}
+                    >
                         Lets work {hover ? <ArrowForward /> : <ArrowRight/>}
                     </Button>
                 </HeroBtnWrapper>
