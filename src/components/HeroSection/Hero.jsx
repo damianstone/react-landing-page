@@ -27,9 +27,9 @@ const Hero = (props) => {
                 <VideoBg playsInline autoPlay loop muted src={Video} type='video/mp4' />
             </HeroBg>
             <HeroContent>
-                <HeroH1>We turn your ideas into code</HeroH1>
+                <HeroH1>Virtual Banking Made Easy</HeroH1>
                 <HeroP>
-                we have the most productive method to work together
+                Sign up for a new account today and receive $250 in credit towards your next payment.
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 
