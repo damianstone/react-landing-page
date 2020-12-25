@@ -9,7 +9,7 @@ export const HomeObjOne = {
     description: 'Your website is your main cover letter for your next potential clients. Make sure you live up to it, with a professional website that reflects your companys values ​​and work',
     buttonLabel: 'Our projects',
     imgStart: false, 
-    img: '/images/svg-2.svg',
+    img: '/images/svg-1.svg',
     alt: 'Car',
     dark: true,
     primary: true,
