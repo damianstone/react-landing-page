@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-website/static/css/main.4d467896.chunk.css",
-    "main.js": "/React-website/static/js/main.3fa0ba3e.chunk.js",
-    "main.js.map": "/React-website/static/js/main.3fa0ba3e.chunk.js.map",
+    "main.js": "/React-website/static/js/main.7bafaece.chunk.js",
+    "main.js.map": "/React-website/static/js/main.7bafaece.chunk.js.map",
     "runtime-main.js": "/React-website/static/js/runtime-main.e953354f.js",
     "runtime-main.js.map": "/React-website/static/js/runtime-main.e953354f.js.map",
     "static/js/2.58e75d87.chunk.js": "/React-website/static/js/2.58e75d87.chunk.js",
@@ -10,12 +10,18 @@
     "index.html": "/React-website/index.html",
     "static/css/main.4d467896.chunk.css.map": "/React-website/static/css/main.4d467896.chunk.css.map",
     "static/js/2.58e75d87.chunk.js.LICENSE.txt": "/React-website/static/js/2.58e75d87.chunk.js.LICENSE.txt",
+    "static/media/svg-2.b4fe14c0.svg": "/React-website/static/media/svg-2.b4fe14c0.svg",
+    "static/media/svg-3.c44126dd.svg": "/React-website/static/media/svg-3.c44126dd.svg",
+    "static/media/svg-4.06c5b413.svg": "/React-website/static/media/svg-4.06c5b413.svg",
+    "static/media/svg-5.e314d8e4.svg": "/React-website/static/media/svg-5.e314d8e4.svg",
+    "static/media/svg-6.8aa191d7.svg": "/React-website/static/media/svg-6.8aa191d7.svg",
+    "static/media/svg-7.5f11287c.svg": "/React-website/static/media/svg-7.5f11287c.svg",
     "static/media/video.7d1ea6a9.mp4": "/React-website/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.e953354f.js",
     "static/js/2.58e75d87.chunk.js",
     "static/css/main.4d467896.chunk.css",
-    "static/js/main.3fa0ba3e.chunk.js"
+    "static/js/main.7bafaece.chunk.js"
   ]
 }
