@@ -1,4 +1,7 @@
 import React from 'react'
+import Img1 from '../../images/svg-4.svg';
+import Img2 from '../../images/svg-5.svg';
+import Img3 from '../../images/svg-6.svg';
 
 import {
     ServicesContainer, 
@@ -16,17 +19,17 @@ const Services = (props) => {
             <ServicesH1>Our Services</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
-                    <ServicesIcon src='/images/svg-4.svg' />
+                    <ServicesIcon src={Img1}/>
                     <ServicesH2>Responsive design</ServicesH2>
                     <ServicesP>we adjust your page to all platforms</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src='/images/svg-5.svg' />
+                    <ServicesIcon src={Img2} />
                     <ServicesH2>Responsive design</ServicesH2>
                     <ServicesP>we adjust your page to all platforms</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src='/images/svg-6.svg' />
+                    <ServicesIcon src={Img3} />
                     <ServicesH2>Responsive design</ServicesH2>
                     <ServicesP>we adjust your page to all platforms</ServicesP>
                 </ServicesCard>
