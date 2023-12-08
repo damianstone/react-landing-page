@@ -78,7 +78,7 @@ export const NavLinks = styled(LinkScroll) `
   display: flex;
   align-items: center;
   text-decoration: none;
-  padding: 0 1rem;
+  padding: 0 3rem;
   height: 100%;
   cursor: pointer;
 
@@ -102,7 +102,7 @@ export const NavBtnLink = styled(LinkR)`
   white-space: nowrap;
   padding: 10px 22px;
   color: #010606;
-  font-size: 16px;
+  font-size: 20px;
   outline: none;
   cursor: pointer;
   transition: all 0.2s ease-in-out;

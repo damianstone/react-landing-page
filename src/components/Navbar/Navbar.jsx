@@ -40,7 +40,7 @@ const Navbar = ({ toggle }) => {
         <IconContext.Provider value={{color: '#01BF71'}}>
             <Nav scrollNav={scrollNav}>
                 <NavContainer>
-                      <NavLogo to="/" onClick={toggleHome}>DVsoft</NavLogo>
+                      <NavLogo to="/" onClick={toggleHome}>Fintech template</NavLogo>
                       <MobileIcon onClick={toggle} >
                           <FaBars />
                       </MobileIcon>

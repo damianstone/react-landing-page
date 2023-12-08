@@ -17,7 +17,7 @@ const Signin = (props) => {
         <>
         <Container>
             <FormWrap>
-                <Icon to='/'>DVsoft</Icon>
+                <Icon to='/'>Fintech template</Icon>
                 <FormContent>
                     <Form action='#'>
                         <FormH1>Sign in to your account</FormH1>

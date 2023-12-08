@@ -51,7 +51,7 @@ export const Links = styled.div`
 `;
 
 export const LinkTitle = styled.h1` 
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 16px;
 
 `;
@@ -60,7 +60,7 @@ export const Link = styled(LinkR)`
   color: #fff;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  font-size: 14px;
+  font-size: 16px;
 
   &:hover {
       color: #01bf71;
